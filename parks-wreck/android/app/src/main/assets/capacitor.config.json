@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Parks & Wreck",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

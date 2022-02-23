@@ -1,0 +1,7 @@
+{
+  "name": "Parks & Wreck",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

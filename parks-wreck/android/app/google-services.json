@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951844523846",
+    "project_id": "parks-and-wreck",
+    "storage_bucket": "parks-and-wreck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951844523846:android:1f2f5f789d114c1e95df47",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951844523846-acu1cgesdb3hu8ork5en76ftngpv00ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0iW69nqy3_A4EFTsbSa3gQdqILylbnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951844523846-acu1cgesdb3hu8ork5en76ftngpv00ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
